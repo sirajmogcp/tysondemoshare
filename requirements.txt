@@ -1,0 +1,23 @@
+streamlit
+google-cloud-aiplatform
+openai
+wikipedia
+# Install langchain
+langchain
+PyCryptodome
+# Install pandas
+pandas
+# Install HuggingFace Datasets
+datasets
+pinecone-client
+# Install Python client for Google Search API
+google-api-python-client
+google-cloud-bigquery
+# Local vector store
+#chromadb
+# PDF loader
+#pypdf
+# Install similarity search library
+# TO-DO: Replace with vertex AI Matching Engine
+faiss-cpu
+youtube_search
